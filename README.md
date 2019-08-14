@@ -1,0 +1,2 @@
+# delphihtml5
+按delphi模式写html/javascript代码，包括使用控件的方式和编写代码的结构都与delphi相近.
